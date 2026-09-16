@@ -22,6 +22,15 @@ The website is continuously deployed and accessible globally at:
 
 👉 **[https://cotaj6011-coder.github.io/AIoT/](https://cotaj6011-coder.github.io/AIoT/)**
 
+<div align="center">
+  <br />
+  <a href="https://cotaj6011-coder.github.io/AIoT/">
+    <img src="assets/snapshot.png" alt="Justin's Personal Portal & Real-Time Clock Snapshot" width="800" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.5);" />
+  </a>
+  <p><em>Click the snapshot above to open the live interactive page</em></p>
+  <br />
+</div>
+
 ---
 
 ## ✨ Features
@@ -52,6 +61,8 @@ AIoT/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml          # Automated GitHub Pages CI/CD workflow
+├── assets/
+│   └── snapshot.png            # Web preview snapshot
 ├── index.html                  # Semantic application markup
 ├── style.css                   # Glassmorphic design system & animations
 ├── app.js                      # Real-time clock engine & localization logic
