@@ -1,4 +1,4 @@
-# Justin — Personal Portal & Real-Time Clock
+# 劉長村 — Personal Portal & Real-Time Clock
 
 <div align="center">
 
@@ -25,7 +25,7 @@ The website is continuously deployed and accessible globally at:
 <div align="center">
   <br />
   <a href="https://cotaj6011-coder.github.io/AIoT/">
-    <img src="assets/snapshot.png" alt="Justin's Personal Portal & Real-Time Clock Snapshot" width="800" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.5);" />
+    <img src="assets/snapshot.png" alt="劉長村's Personal Portal & Real-Time Clock Snapshot" width="800" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.5);" />
   </a>
   <p><em>Click the snapshot above to open the live interactive page</em></p>
   <br />
@@ -103,7 +103,7 @@ Then visit `http://localhost:8000` in your browser.
 
 ## 👤 Author
 
-**Justin**
+**劉長村 (Justin)**
 - GitHub: [@cotaj6011-coder](https://github.com/cotaj6011-coder)
 - Email: [cotaj6011@gmail.com](mailto:cotaj6011@gmail.com)
 
