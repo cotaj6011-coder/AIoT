@@ -1,5 +1,5 @@
 /**
- * Justin's Personal Portal & Real-Time Clock
+ * 劉長村's Personal Portal & Real-Time Clock
  * Modern Vanilla JS Engine
  */
 
