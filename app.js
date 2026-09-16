@@ -44,7 +44,7 @@ const i18n = {
 // ============================================================================
 const state = {
   is24Hour: localStorage.getItem('justin_clock_format') !== '12h', // Default 24h
-  lang: localStorage.getItem('justin_lang') === 'zh' ? 'zh' : 'en'  // Default en
+  lang: localStorage.getItem('justin_lang') === 'en' ? 'en' : 'zh'  // Default zh (繁體中文)
 };
 
 // ============================================================================
